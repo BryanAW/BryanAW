@@ -62,11 +62,11 @@ Autonomous structural defect detection using drone imagery.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-80rzm6u83-bryanaws-projects.vercel.app/api?username=BryanAW&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    src="https://github-readme-stats-80rzm6u83-bryanaws-projects.vercel.app/api?username=BryanAW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=2"
     height="150"
   />
   <img
-    src="https://github-readme-stats-80rzm6u83-bryanaws-projects.vercel.app/api/top-langs/?username=BryanAW&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-80rzm6u83-bryanaws-projects.vercel.app/api/top-langs/?username=BryanAW&layout=compact&theme=github_dark&hide_border=true&v=2"
     height="150"
   />
 </p>
